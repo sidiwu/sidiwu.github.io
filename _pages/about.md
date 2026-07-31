@@ -33,7 +33,7 @@ I am an Assistant Professor of Statistics at Fuzhou University in Fuzhou, China.
 
 My research lies at the intersection of statistics and machine learning, with a particular interest in functional data analysis, survival analysis, and image data analysis. I enjoy developing statistical methods that address real-world problems and exploring how modern machine learning techniques can enhance classical statistical models.
 
-I hope you enjoy looking around my website, and feel free to reach out if you'd like to chat about research, collaboration, or statistics--I’d love to hear from you!
+I hope you enjoy looking around my website, and feel free to reach out if you'd like to chat about research, collaboration, or statistics ---- I’d love to hear from you!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
