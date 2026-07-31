@@ -29,14 +29,14 @@ latest_posts:
 
 Hello, I'm glad you stopped by!
 
-I am an Assistant Professor of Statistics at Fuzhou University in Fuzhou, China. I received my Ph.D. in Statistics from Simon Fraser University under the supervision of Prof. Jiguo Cao and Prof. C\`edric Beaulac. Prior to that, I earned my master's degree in Statistics from the George Washington University.
+I am an Assistant Professor of Statistics at Fuzhou University in Fuzhou, China. I received my Ph.D. in Statistics from Simon Fraser University under the supervision of [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Prof. Cédric Beaulac](https://cedricbeaulac.github.io/). Prior to that, I earned my master's degree in Statistics from the George Washington University.
 
 My research lies at the intersection of statistics and machine learning, with a particular interest in functional data analysis, survival analysis, and image data analysis. I enjoy developing statistical methods that address real-world problems and exploring how modern machine learning techniques can enhance classical statistical models.
 
-I hope you enjoy looking around my website, and feel free to reach out if you'd like to chat about research, collaboration, or statistics ---- I’d love to hear from you!
+I hope you enjoy looking around my website, and feel free to reach out if you'd like to chat about research, collaboration, or statistics --- I’d love to hear from you!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
