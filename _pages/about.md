@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Statistics #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, and welcome! I'm glad you stopped by!
+Hi, I'm glad you stopped by!
 
 I am an Assistant Professor of Statistics at Fuzhou University in Fuzhou, China. I received my Ph.D. in Statistics from Simon Fraser University under the supervision of Prof. Jiguo Cao and Prof. C\'edric Beaulac, and previously earned my master's degree in Statistics from the George Washington University.
 
